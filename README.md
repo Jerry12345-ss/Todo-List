@@ -11,7 +11,7 @@ Todo List is my project to practice `Javascript` and `Sass/SCSS`, user can addã€
 - `HTML5`
 - use Sass/SCSS of CSS preprocessor to handle `CSS3`
 - `Javascript`
-- Responsive by `@media` Media Queries for mobile, tablet, laptop ( use Bootstrap5](https://getbootstrap.com/) )
+- Responsive by `@media` Media Queries for mobile, tablet, laptop ( use Bootstrap5 )
 
 ## Features
 
